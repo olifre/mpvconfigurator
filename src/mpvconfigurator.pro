@@ -52,8 +52,7 @@ FORMS    += mainwindow.ui \
     tabmisc.ui \
     tabextensions.ui \
     unknownsettingstab.ui \
-    tabconfig.ui \
-    tempfix.ui
+    tabconfig.ui
 
 QMAKE_CXXFLAGS += -std=c++11
 
